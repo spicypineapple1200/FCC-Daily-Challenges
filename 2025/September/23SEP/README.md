@@ -2,7 +2,7 @@
 *note, the python file can a return line and a print line at the end. The return line is the only one included in the original answer, the print line was used while building the solution in
  the online IDE found at "https://www.programiz.com/python-programming/online-compiler/".
 
-###### String Mirror
+#### String Mirror
 
 Given two strings, determine if the second string is a mirror of the first.
 
