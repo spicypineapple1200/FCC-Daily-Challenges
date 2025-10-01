@@ -1,6 +1,6 @@
 *Below is the original challenge in freeCodeCamp. After that there is a divider and below that divider is the test cases for the accompanying python file for this challenge. *note, the python file can a return line and a print line at the end. The return line is the only one included in the original answer, the print line was used while building the solution in the online IDE found at "https://www.programiz.com/python-programming/online-compiler/".
 
-Perfect Square
+<h6>Perfect Square</h6>
 
 Given an integer, determine if it is a perfect square.
 
