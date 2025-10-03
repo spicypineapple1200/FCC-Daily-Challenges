@@ -8,4 +8,4 @@ def is_mirror(str1, str2):
     if str1 == str2:judgement = True
     else: judgement = False
     print(judgement)
-    # return judgement
+    return judgement
