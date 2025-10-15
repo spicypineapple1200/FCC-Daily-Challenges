@@ -1,6 +1,10 @@
-*Below is the original challenge in freeCodeCamp. After that there is a divider and below that divider is the test cases for the accompanying "solution.py" python file for this challenge. *note, the python file has a return line and a print line at the end. The return line is the only one included in the original answer, the print line was used while building the solution in the online IDE found at "https://www.programiz.com/python-programming/online-compiler/".
+*Below is my explanation for solving this daily challenge and below that is the original challenge in freeCodeCamp! Check the accompanying "solution.py" file for the actual solution code. I built the solution in the online IDE found at "https://www.programiz.com/python-programming/online-compiler/".*
+
+****
 
 ***I initially tried using some logic with pythons split element. Deciding iterating through the entire thing was easier and offered more control. I simply set a parameter named "check" to detect when tags begin and end and kept everything that was not within the tags!***
+
+****
 
 ## HTML Tag Stripper
 
