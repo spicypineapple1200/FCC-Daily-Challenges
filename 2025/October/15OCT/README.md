@@ -17,7 +17,7 @@ For example, '<a href="#">Click here</a>' should return "Click here".
 
 ****
 
-#### 1. strip_tags('<a href="#">Click here</a>') should return "Click here".
-#### 2. strip_tags('<p class="center">Hello <b>World</b>!</p>') should return "Hello World!".
-#### 3. strip_tags('<img src="cat.jpg" alt="Cat">') should return an empty string ("").
-#### 4. strip_tags('<main id="main"><section class="section">section</section><section class="section">section</section></main>') should return sectionsection.
+    1. strip_tags('<a href="#">Click here</a>') should return "Click here".
+    2. strip_tags('<p class="center">Hello <b>World</b>!</p>') should return "Hello World!".
+    3. strip_tags('<img src="cat.jpg" alt="Cat">') should return an empty string ("").
+    4. strip_tags('<main id="main"><section class="section">section</section><section class="section">section</section></main>') should return sectionsection.
