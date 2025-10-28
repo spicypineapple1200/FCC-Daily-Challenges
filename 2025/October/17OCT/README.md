@@ -6,7 +6,7 @@
 
 ****
 
-## Credit Card Masker
+## [Credit Card Masker](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-28)
 
 Given a string of credit card numbers, return a masked version of it using the following constraints:
 
