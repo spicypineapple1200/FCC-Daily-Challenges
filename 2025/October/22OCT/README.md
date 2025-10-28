@@ -6,7 +6,7 @@
 
 ****
 
-## Speak Wisely, You Must
+## [Speak Wisely, You Must](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-22)
 
 Given a sentence, return a version of it that sounds like advice from a wise teacher using the following rules:
 
