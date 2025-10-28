@@ -6,7 +6,7 @@
 
 ****
 
-## HTML Tag Stripper
+## [HTML Tag Stripper](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-15)
 
 Given a string of HTML code, remove the tags and return the plain text content.
 
