@@ -6,7 +6,8 @@
 
 ****
 
-## Email Validator
+## [Email Validator](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-16)
+
 Given a string, determine if it is a valid email address using the following constraints:
 
 It must contain exactly one @ symbol.
