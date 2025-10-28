@@ -6,7 +6,7 @@
 
 ****
 
-## Favorite Songs
+## [Favorite Songs](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-28)
 
 Remember iPods? The first model came out 24 years ago today, on Oct. 23, 2001.
 
