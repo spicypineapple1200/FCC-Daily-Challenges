@@ -6,7 +6,8 @@
 
 ****
 
-## Hidden Treasure
+## [Hidden Treasure](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-28)
+
 Given a 2D array representing a map of the ocean floor that includes a hidden treasure, and an array with the coordinates ([row, column]) for the next dive of your treasure search, return "Empty", "Found", or "Recovered" using the following rules:
 
 The given 2D array will contain exactly one unrecovered treasure, which will occupy multiple cells.
