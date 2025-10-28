@@ -6,7 +6,7 @@
 
 ****
 
-## Tip Calculator
+## [Tip Calculator](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-20)
 
 Given the price of your meal and a custom tip percent, return an array with three tip values; 15%, 20%, and the custom amount.
 
