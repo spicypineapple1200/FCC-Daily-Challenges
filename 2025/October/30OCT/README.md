@@ -6,7 +6,7 @@
 
 ****
 
-## Nth Prime
+## [Nth Prime](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-30)
 
 A prime number is a positive integer greater than 1 that is divisible only by 1 and itself. The first five prime numbers are 2, 3, 5, 7, and 11.
 
