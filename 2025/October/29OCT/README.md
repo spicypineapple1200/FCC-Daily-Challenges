@@ -2,7 +2,7 @@
 
 ****
 
-***Explanation here!***
+***This one was especially challenging for me, but got it working! I had to learn some new tricks for using pythons "sorting" function, as well as get creative with tracking the domains and user names. Long story short I sorted the domains, sorted the names by the domain name, then went in order adding the emails to the final answer and had to make sure none were repeatedly added in the wrong order.***
 
 ****
 
