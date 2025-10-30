@@ -6,7 +6,7 @@
 
 ****
 
-## Email Sorter
+## [Email Sorter](https://www.freecodecamp.org/learn/daily-coding-challenge/2025-10-29)
 
 On October 29, 1971, the first email ever was sent, introducing the username@domain format we still use. Now, there are billions of email addresses.
 
