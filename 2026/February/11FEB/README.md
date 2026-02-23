@@ -5,7 +5,7 @@
 ***Sorted the list, used indexing to capture the list without the first and last items, and used a for loop to subtract pentalties from final number.***
 
 ****
-## [2026 Winter Games Day 6: Figure Skating](phttps://www.freecodecamp.org/learn/daily-coding-challenge/2026-02-11)
+## [2026 Winter Games Day 6: Figure Skating](https://www.freecodecamp.org/learn/daily-coding-challenge/2026-02-11)
 
 Given an array of judge scores and optional penalties, calculate the final score for a figure skating routine.
 
