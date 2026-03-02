@@ -3,7 +3,6 @@ import string
 def count_letters_and_numbers(s):
     letters, alpha = 0, string.ascii_letters
     nums, numbers = 0, [str(num) for num in range(10)]
-    print(alpha, numbers)
     for item in s:
         if item in numbers: nums+=1
         elif item in alpha: letters+=1
